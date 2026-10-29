@@ -42,13 +42,3 @@ calculate_love_score("Kanye West", "Kim Kardashian")
 Example Output
 
 42
-
-How to test your code and see your output?
-
-Udemy coding exercises do not have a console, so you cannot use the input() function. You will need to call your function with hard-coded values like so:
-
-def calculate_love_score(name1, name2):
-  # your code here
- 
-# Call your function with hard coded values
-calculate_love_score("Kanye West", "Kim Kardashian")
